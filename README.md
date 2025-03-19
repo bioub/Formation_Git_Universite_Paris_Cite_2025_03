@@ -1,4 +1,4 @@
-# Formation Git
+# Formation Git Université de Paris
 
 ## Commandes de base 
 
