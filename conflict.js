@@ -3,7 +3,7 @@ function hello() {
   const age = 42;
   const job = 'Developer';
 
-  if (name && name !== '') {
+  if (name && job && name !== '') {
     console.log('Hello, ' + name);
     console.log('You are a ' + job);
   }
