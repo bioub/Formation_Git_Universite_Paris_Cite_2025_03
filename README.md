@@ -9,3 +9,8 @@
 - git rm
 - git commit
 - git lg
+
+## Commandes sur les branches
+
+- git branch
+- git switch
