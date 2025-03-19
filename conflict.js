@@ -1,5 +1,5 @@
 function hello() {
-  const name = '';
+  const name = 'Toto';
 
   if (name) {
     console.log('Hello, ' + name);
