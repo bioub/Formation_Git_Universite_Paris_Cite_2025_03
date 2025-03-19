@@ -14,3 +14,6 @@
 
 - git branch
 - git switch
+- git merge
+- git rebase
+- git cherry-pick
