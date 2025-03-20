@@ -17,3 +17,8 @@
 - git merge
 - git rebase
 - git cherry-pick
+
+## Commandes sur les remotes
+
+- git remote
+- git push
