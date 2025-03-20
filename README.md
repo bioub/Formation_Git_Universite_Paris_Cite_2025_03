@@ -1,4 +1,4 @@
-# Formation Git Université de Paris
+# Formation Git Université de Paris des 19 et 20 mars 2025
 
 ## Commandes de base 
 
